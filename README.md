@@ -7,25 +7,6 @@
   <img src="https://img.shields.io/badge/UI-Ink%20%2F%20React-orange.svg" alt="UI">
 </p>
 
----
-
-## 🌟 强力推荐：DataEyesAI - 你的全能 AI 助手
-
-> **想要像 Claude Code 一样高效，却苦于没有稳定的 API 接入？**
-
-**[DataEyesAI](https://dataeyes.ai/?promoter_code=4qx9suz3)** 是为你量身打造的一站式 AI 聚合平台！
-
-- ⚡ **聚合全球顶尖模型**：一键接入 GPT-5、Claude 4.6、Gemini 3.1 等主流大模型。
-- 💰 **极致性价比**：官方原厂满血版 API，价格却极具竞争力，让你用最少的成本享受最强的 AI 能力。
-- 🛡️ **稳定可靠**：专业运维 7x24 小时守护，企业级 SLA 保障，告别连接断断续续的烦恼。
-- 🛠️ **开发者友好**：标准 API 接口，完美适配各类开源项目、CLI 工具及开发流程。
-
-👉 **[立即注册体验，开启你的 AI 生产力起飞之旅！](https://dataeyes.ai/?promoter_code=4qx9suz3)**
-
-👉 请点击：[https://dataeyes.ai/?promoter_code=4qx9suz3](https://dataeyes.ai/?promoter_code=4qx9suz3)
-
----
-
 > [!IMPORTANT]
 > **这是一个针对 `@anthropic-ai/claude-code` 2.1.88 版本的源码整理与重建项目。**
 > 该版本发布到 npm 时附带了可还原源码的 source map。本项目基于 `sources` 和 `sourcesContent` 将其还原为可读的源码目录，旨在研究 Claude Code 的 CLI 架构、命令系统及 MCP 实现。
@@ -46,19 +27,6 @@
 ```shell
 npm install -g https://mirrors.cloud.tencent.com/npm/@anthropic-ai/claude-code/-/claude-code-2.1.88.tgz
 ```
-
-<img width="626" height="370" alt="图片" src="https://github.com/user-attachments/assets/bcc1d094-f19d-4bd7-b53b-898399c6d117" />
-
-
-> 手慢无，不知道腾讯云的镜像缓存什么时候也没了
-
-
-可以关注我的公众号，行业第一手信息，都会发在文章中
-
-<img width="805" height="378" alt="图片" src="https://github.com/user-attachments/assets/360b9ab0-24f0-4806-87f4-921a239550d8" />
-
-
----
 
 ## 项目结构概览
 
